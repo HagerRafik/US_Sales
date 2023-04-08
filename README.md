@@ -9,4 +9,4 @@ Dashboard: https://public.tableau.com/app/profile/hager.atta/viz/USstoresales/Da
 - Data Exploration 
 - Data Visualisation
 
-but i Couldn't to create an ML model
+but i Couldn't to create a good ML model
